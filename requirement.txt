@@ -1,0 +1,10 @@
+certifi
+chardet
+idna
+Pillow
+psutil
+pygame
+requests
+six==1.14.0
+tinycss
+urllib3
